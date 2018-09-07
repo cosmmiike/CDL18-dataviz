@@ -9,7 +9,7 @@
 		<td><img src="figures/placeholder.png" style="width: 100%;"></td>
 		<td><img src="figures/placeholder.png" style="width: 100%;"></td>
 		<td><img src="figures/placeholder.png" style="width: 100%;"></td>
-		<td><img src="figures/placeholder.png" style="width: 100%;"></td>
+		<td><img src="figures/GR4 - Forest Fire.png" style="width: 100%;"></td>
 		<td><img src="figures/placeholder.png" style="width: 100%;"></td>
 	</tr>
 </table>
