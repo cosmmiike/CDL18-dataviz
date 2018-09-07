@@ -28,8 +28,15 @@
 
 <hr>
 
-<h2>Groupe 4 - </h2>
+<h2>Groupe 4 - <a href="http://blockbuilder.org/cosmmiike/0b13b678e47ea91d0f6ddaf1543b260b">Forest Fires</a></h2>
 
+<p><i>Mikhail SHAYMARDANOV & Jules SEGUIN</i> http://blockbuilder.org/cosmmiike/0b13b678e47ea91d0f6ddaf1543b260b</p>
+
+<p><b>Description: Représentation des la localisation des incendies en fonction des mois de l'année et de plusieurs parameters (temperature, l'humidité et surface brûlée).</b></p>
+
+<p><b>Lien vers design sheet: </b></p>
+
+<p><b>Lien vers source données: http://archive.ics.uci.edu/ml/datasets/Forest+Fires </b></p>
 <hr>
 
 <h2>Groupe 5 - </h2>
