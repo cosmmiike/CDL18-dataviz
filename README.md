@@ -1,8 +1,8 @@
 # Central Digital Lab - Projets Dataviz 2018
 
-<p>Projets réalisés apres la formation DataViz du [Centrale Digital Lab](https://www.ec-lyon.fr/formation/ingenieur-generaliste/construire-son-projet-professionnel/lyon-centrale-digital-lab)</p>
+<p>Projets réalisés apres la formation DataViz du <a href="https://www.ec-lyon.fr/formation/ingenieur-generaliste/construire-son-projet-professionnel/lyon-centrale-digital-lab">Centrale Digital Lab</a></p>
 
-<p>Enseignant: [Romain Vuillemot](http://romain.vuillemot.net/)</p>
+<p>Enseignant: <a href="http://romain.vuillemot.net/">Romain Vuillemot</a></p>
 
 <table>
 	<tr>
@@ -16,32 +16,32 @@
 
 <hr>
 
-Groupe 1 
+<h2>Groupe 1 - </h2>
 
 <hr>
 
-Groupe 2
+<h2>Groupe 2 - </h2>
 
 <hr>
 
-Groupe 3
+<h2>Groupe 3 - </h2>
 
 <hr>
 
-Groupe 4
+<h2>Groupe 4 - </h2>
 
 <hr>
 
-Groupe 5
+<h2>Groupe 5 - </h2>
 
 <hr>
 
-*Ci-dessous le template de groupe a utiliser. Mettre une image dans le dossier `figures` avec votre numéro de groupe (ex: `groupe1.png`) et changer le tableau en fonction du nom/format image choisi.*
+<i>Ci-dessous le template de groupe a utiliser. Mettre une image dans le dossier <i>figures</i> avec votre numéro de groupe (ex: <i>groupe1.png</i>) et changer le tableau en fonction du nom/format image choisi.</i>
 
 
-<h2>Groupe X - **titre du projet**](https://github.com/LyonDataViz/CDL18-dataviz)<h2>
+<h2>Groupe X - <a href="https://github.com/LyonDataViz/CDL18-dataviz">titre du projet</a></h2>
 
-<i>Prénom Nom & Prénom Nom</i> (+ lien vers sites perso)
+<p><i>Prénom Nom & Prénom Nom</i> (+ lien vers sites perso)</p>
 
 <p><b>Description:</b></p>
 
